@@ -5,7 +5,7 @@
 # ║   🦞 OpenClaw 一键部署脚本 v1.0.0                                          ║
 # ║   智能 AI 助手部署工具 - 支持多平台多模型                                    ║
 # ║                                                                           ║
-# ║   GitHub: https://github.com/miaoxworld/OpenClawInstaller                 ║
+# ║   GitHub: https://github.com/RapheaI/OpenClawInstaller                 ║
 # ║   官方文档: https://clawd.bot/docs                                         ║
 # ║                                                                           ║
 # ╚═══════════════════════════════════════════════════════════════════════════╝
@@ -1599,7 +1599,7 @@ main() {
     echo -e "  🔧 ${CYAN}可视化配置${NC} - AI 模型、消息渠道一键配置"
     echo -e "  💻 ${CYAN}跨平台${NC} - 支持 macOS、Windows、Linux"
     echo ""
-    echo -e "  👉 ${PURPLE}下载地址: https://github.com/miaoxworld/openclaw-manager${NC}"
+    echo -e "  👉 ${PURPLE}下载地址: https://github.com/RapheaI/openclaw-manager${NC}"
     echo ""
     
     # 询问是否打开配置菜单进行详细配置
