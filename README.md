@@ -57,7 +57,7 @@
 ### 方式一：一键安装（命令行版）
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/miaoxworld/OpenClawInstaller/main/install.sh | bash
+bash <(curl -s https://raw.githubusercontent.com/RapheaI/openclaw-installer/main/install.sh)
 ```
 
 安装脚本会自动：
